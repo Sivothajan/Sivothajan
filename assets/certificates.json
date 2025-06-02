@@ -1,4 +1,4 @@
-export const certificates = [
+[
   {
     certName: "CCNA: Enterprise Networking, Security, and Automation",
     providerName: "Cisco Networking Academy",
@@ -271,6 +271,4 @@ export const certificates = [
     description: "Natural Language Processing using the spaCy library.",
     skills: ["Python", "NLP", "spaCy"],
   },
-];
-
-export default certificates;
+]
