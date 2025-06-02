@@ -19,7 +19,7 @@
       "Software Driven Networks",
       "Virtualization",
       "Wide Area Network (WAN)",
-    ],
+    ]
   },
   {
     certName: "Containerization and Virtualization Concepts",
@@ -36,7 +36,7 @@
     issuedDate: "April 2025",
     description:
       "Comprehensive course on containerization and virtualization technologies with focus on Docker and Kubernetes.",
-    skills: ["Docker", "Containerization", "Kubernetes", "Dockerfiles"],
+    skills: ["Docker", "Containerization", "Kubernetes", "Dockerfiles"]
   },
   {
     certName: "Intermediate Docker",
@@ -53,7 +53,7 @@
     issuedDate: "April 2025",
     description:
       "Advanced Docker concepts and practices for container orchestration and management.",
-    skills: ["Docker", "Dockerfiles", "Containerization"],
+    skills: ["Docker", "Dockerfiles", "Containerization"]
   },
   {
     certName: "Intermediate SQL",
@@ -69,7 +69,7 @@
       "https://drive.google.com/file/d/1NpzlcOo2WN0DxqIV3RSIPwZBOsSd6sB5/edit",
     issuedDate: "April 2025",
     description: "Advanced SQL concepts and database management techniques.",
-    skills: ["MySQL", "SQL"],
+    skills: ["MySQL", "SQL"]
   },
   {
     certName: "Introduction to Docker",
@@ -86,7 +86,7 @@
     issuedDate: "April 2025",
     description:
       "Fundamentals of Docker containerization and basic container management.",
-    skills: ["Docker", "Dockerfiles", "Containerization"],
+    skills: ["Docker", "Dockerfiles", "Containerization"]
   },
   {
     certName: "Introduction to Java",
@@ -103,7 +103,7 @@
     issuedDate: "April 2025",
     description:
       "Fundamentals of Java programming and object-oriented concepts.",
-    skills: ["Java", "Object-Oriented Programming (OOP)"],
+    skills: ["Java", "Object-Oriented Programming (OOP)"]
   },
   {
     certName: "CCNA: Switching, Routing, and Wireless Essentials",
@@ -132,7 +132,7 @@
       "VLANs",
       "OSPF",
       "EIGRP",
-    ],
+    ]
   },
   {
     certName: "CCNA: Introduction to Networks",
@@ -157,7 +157,7 @@
       "Network Switches",
       "Network Security",
       "Router Configuration",
-    ],
+    ]
   },
   {
     certName: "Introduction to SQL",
@@ -173,7 +173,7 @@
       "https://drive.google.com/file/d/1g-gfE2KMcTqa-FBGOQVoet3gNLaUl5Eb/edit",
     issuedDate: "December 2024",
     description: "SQL fundamentals and database querying basics.",
-    skills: ["SQL", "Databases"],
+    skills: ["SQL", "Databases"]
   },
   {
     certName: "Natural Language Processing: Theory and Applications",
@@ -188,7 +188,7 @@
     issuedDate: "September 2024",
     description:
       "Comprehensive NLP course covering theory and practical applications.",
-    skills: ["Natural Language Processing (NLP)", "Python", "Java"],
+    skills: ["Natural Language Processing (NLP)", "Python", "Java"]
   },
   {
     certName: "Deep Learning for Text with PyTorch",
@@ -204,7 +204,7 @@
       "https://drive.google.com/file/d/15gV151x3KHDmXUOJU1tkjuzv_dNrJ4dm/edit",
     issuedDate: "July 2024",
     description: "Deep learning techniques for text processing using PyTorch.",
-    skills: ["PyTorch", "Python", "Deep Learning"],
+    skills: ["PyTorch", "Python", "Deep Learning"]
   },
   {
     certName: "Introduction to R",
@@ -220,7 +220,7 @@
       "https://drive.google.com/file/d/14vq41c-R14H53hUsoEh4mN9hrub00Vpg/edit",
     issuedDate: "July 2024",
     description: "Introduction to R programming language and its applications.",
-    skills: ["R Programming"],
+    skills: ["R Programming"]
   },
   {
     certName: "Feature Engineering for NLP in Python",
@@ -237,7 +237,7 @@
     issuedDate: "June 2024",
     description:
       "Advanced feature engineering techniques for NLP applications.",
-    skills: ["Python", "NLP", "Feature Engineering"],
+    skills: ["Python", "NLP", "Feature Engineering"]
   },
   {
     certName: "Introduction to Natural Language Processing in Python",
@@ -253,7 +253,7 @@
       "https://drive.google.com/file/d/1tVrAiu4LCAOpGC7676qKXasz0A-4PPfZ/edit",
     issuedDate: "June 2024",
     description: "Fundamentals of Natural Language Processing using Python.",
-    skills: ["Python", "NLP"],
+    skills: ["Python", "NLP"]
   },
   {
     certName: "Natural Language Processing with spaCy",
@@ -269,6 +269,6 @@
       "https://drive.google.com/file/d/1ensF3DU40W_-38fVBVQo_AU4j4e9StLQ/edit",
     issuedDate: "June 2024",
     description: "Natural Language Processing using the spaCy library.",
-    skills: ["Python", "NLP", "spaCy"],
+    skills: ["Python", "NLP", "spaCy"]
   }
 ]
