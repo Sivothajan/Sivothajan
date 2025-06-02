@@ -2,12 +2,12 @@
   {
     "certName": "CCNA: Enterprise Networking, Security, and Automation",
     "providerName": "Cisco Networking Academy",
-    "certId": "CCNA3",
-    "certVerifyUrl": "#",
-    "certUrl": "#",
-    "certPdfUrl": "#",
-    "certPreviewUrl": "#",
-    "issuedDate": "April 2025",
+    "certId": "9d9dc829-c280-466a-bf3b-d099e668a80e",
+    "certVerifyUrl": "https://www.credly.com/badges/9d9dc829-c280-466a-bf3b-d099e668a80e",
+    "certUrl": "https://www.credly.com/badges/9d9dc829-c280-466a-bf3b-d099e668a80e",
+    "certPdfUrl": "https://drive.google.com/file/d/1rWzZ6zyNgshx9n9NJHRLU4Bxf_fiCbGo/edit",
+    "certPreviewUrl": "https://drive.google.com/file/d/1rWzZ6zyNgshx9n9NJHRLU4Bxf_fiCbGo/edit",
+    "issuedDate": "June 2025",
     "description": "Advanced CCNA course covering enterprise networking, security, automation, dynamic routing, NAT, QoS, and network virtualization.",
     "skills": [
       "Dynamic Routing",
