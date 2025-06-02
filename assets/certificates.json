@@ -270,5 +270,5 @@
     issuedDate: "June 2024",
     description: "Natural Language Processing using the spaCy library.",
     skills: ["Python", "NLP", "spaCy"],
-  },
+  }
 ]
