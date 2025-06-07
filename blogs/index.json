@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "First Blog Post",
+        "title": "README",
         "date": "2025-June-07",
         "description": "The first blog post of mine. This post includes my short info and contact info",
         "tags": ["info", "blog"],
