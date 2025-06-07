@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "date": "2025-June-07",
+        "description": "The first blog post of mine. This post includes my short info and contact info",
+        "tags": ["info", "blog"],
+        "mdUrl": "https://raw.githubusercontent.com/Sivothajan/Sivothajan/refs/heads/main/README.md",
+        "readTime": "1 min read"
+    }
+]
