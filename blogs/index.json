@@ -6,6 +6,6 @@
         "description": "The first blog post of mine. This post includes my short info and contact info",
         "tags": ["info", "blog"],
         "mdUrl": "https://raw.githubusercontent.com/Sivothajan/Sivothajan/refs/heads/main/README.md",
-        "readTime": "1 min read"
+        "readTime": 1
     }
 ]
