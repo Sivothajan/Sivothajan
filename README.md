@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=Sivothajan&style=flat-square" />
+ <img src="https://count.sivothajan.me" />
 </div>
