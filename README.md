@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
- <img alt="Sivothajan's View Count of GitHub Profile" src="https://count.sivothajan.me" style="border-radius: 8px;" />
+ <img alt="Sivothajan's View Count of GitHub Profile" src="https://count.sivothajan.me" />
 </div>
