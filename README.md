@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://sivothajan.me">Sivothayan</a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://sivothajan.dev">Sivothayan</a></h1>
 
 <h3 align="center">Passionate about reverse engineering, open source, and building innovative solutions.</h3>
 
